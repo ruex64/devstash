@@ -3,3 +3,5 @@ node_modules
 .vscode
 client/dist
 client/.env
+server/dist
+server/.env
